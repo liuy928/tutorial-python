@@ -1,0 +1,2 @@
+# python_on_vscode
+使用VSCODE编写并运行python
